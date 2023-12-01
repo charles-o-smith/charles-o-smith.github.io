@@ -1,6 +1,6 @@
 <ul>
   {% for post in site.posts %}
-  <h2>{{ post.date: date: "%Y-%m-%d }} {{ post.title }}</h2>
+  <h2>{{ post.date: "%Y-%m-%d }} {{ post.title }}</h2>
   {{ post.excerpt }}
   <a href="{{ post.url }}">Read more...</a>
   <br />
