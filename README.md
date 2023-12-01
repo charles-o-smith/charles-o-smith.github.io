@@ -1,3 +1,13 @@
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+
 # 2023.05.11 Creative Engagement Podcast
 
 My friend [Daniel Mandel](https://www.danielrmandel.com/) has interviewed me for his Creative Engagement podcast. In my episode, I read an excerpt called "The Tower" from a novel in progress and we talk about fairytales and creativity. You can hear the podcast:
