@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "The Long Rising Loaf named finalist in Alcove Chapbook contest"
 ---
 
