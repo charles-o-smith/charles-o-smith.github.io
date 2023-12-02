@@ -1,7 +1,5 @@
 Howdy, I'm Charles. I'm working on a collection of fariytlales.
 
-# What's new
-
 <ul>
   {% for post in site.posts %}
   <h2>{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h2>
@@ -12,6 +10,6 @@ Howdy, I'm Charles. I'm working on a collection of fariytlales.
   {% endfor %}
 </ul>
 
-# Stories
+## Stories
 
 - [Where Do the Dead Go When the Living Come to Town](wdtdg.md)
