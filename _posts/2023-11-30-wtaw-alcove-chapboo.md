@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Long Rising Loaf named finalist in Alcove Chapbook contest"
+title:  "The Long-rising Loaf named finalist in Alcove Chapbook contest"
 ---
 
 Today [WTAW Press](https://www.wtawpress.org/) named the winner of their Alcove Press Chapbook Series contest. I am honored that my story "The Long Rising Loaf" was named a finalist.
