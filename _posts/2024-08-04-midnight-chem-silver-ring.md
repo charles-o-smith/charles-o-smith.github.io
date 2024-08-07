@@ -3,11 +3,10 @@ layout: post
 title:  "The Silver Ring in Midnight Chem Issue Two"
 ---
 
-<div style="display:inline-block;vertical-align:top;">
+<div style="sbs">
   <img src="/images/silver_ring.jpeg" width="400em" alt="cartoon turtle wearing red and yellow scarf" /> 
 </div>
-<div style="display:inline-block;vertical-align:top;">
-<div style="display:inline-block;">
+<div style="sbs">
   The first story of my collection of fairytales in-progress has found a home!
 
   <a href="https://www.midnightchem.org/no-2/the-silver-ring">The Silver Ring</a>, a retelling of "The Man Who Came Out Only at Night" is available online in <a href="https://www.midnightchem.org/no-2">Midnight Chem Issue Two</a>! 
