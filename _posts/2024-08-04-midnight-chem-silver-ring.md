@@ -4,7 +4,7 @@ title:  "The Silver Ring in Midnight Chem Issue Two"
 ---
 <div class="flex-container">
   <div>
-  <img src="/images/silver_ring.jpeg" class="img-responsive" alt="cartoon turtle wearing red and yellow scarf" /> 
+  <img src="/images/silver_ring.jpeg" width="100em" alt="cartoon turtle wearing red and yellow scarf" /> 
   </div>
   <div>The first story of my collection of fairytales in-progress has found a home!
 
