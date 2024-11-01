@@ -1,4 +1,4 @@
-Howdy, I'm Charles. I'm working on a collection of fariytlales.
+Howdy, I'm Charles. I'm working on a collection of fariy tlales.
 
 {% for post in site.posts %}
 <h2>{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h2>
