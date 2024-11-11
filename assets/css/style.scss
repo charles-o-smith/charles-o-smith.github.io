@@ -1,0 +1,28 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img {
+  max-width: 270px
+}
+
+/* container */
+.grid {
+  display:block;
+}
+
+/* columns */
+.grid > * {
+  padding-right:1rem;
+}
+
+/* tablet breakpoint */
+@media (min-width:768px) {
+  .grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+  }
+}
+
+
