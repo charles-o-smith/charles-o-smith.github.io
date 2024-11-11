@@ -16,4 +16,6 @@ Howdy, I'm Charles. I'm working on a collection of fariy tales.
 
 ## Stories
 
+- [The Silver Ring](https://www.midnightchem.org/no-2/the-silver-ring)
 - [Where Do the Dead Go When the Living Come to Town](wdtdg.md)
+
