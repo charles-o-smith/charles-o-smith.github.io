@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 img {
-  max-width: 270px
+  max-width: 270px;
 }
 
 .auth {
@@ -29,5 +29,25 @@ img {
       grid-template-columns: 1fr 1fr;
   }
 }
+
+.thumb {
+  max-width: 75px
+}
+
+/* container */
+.small-grid {
+  display:block;
+  align-items: begin;
+}
+
+
+/* tablet breakpoint */
+@media (min-width:768px) {
+  .small-grid {
+      display: grid;
+      grid-template-columns: 100px 1fr;
+  }
+}
+
 
 
