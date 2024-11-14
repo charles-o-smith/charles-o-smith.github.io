@@ -4,7 +4,7 @@ title:  "The Giraffe in Your Impossible Voice"
 image: "/images/giraffe.jpeg"
 image-alt: "a dove on the ossicone of a giraffe, whispering in its ear"
 ---
-I'm honored to announce that my story, [The Giraffe](https://www.midnightchem.org/no-2/the-silver-ring), is available in issue 31 of [Your Impossible Voice](https://www.yourimpossiblevoice.com/)!
+I'm honored to announce that my story, [The Giraffe](https://www.yourimpossiblevoice.com/the-giraffe), is available in issue 31 of [Your Impossible Voice](https://www.yourimpossiblevoice.com/)!
 
 Based upon Apple Girl from Calvino's "Italian Folk Tales," my version takes a decidedly queer twist.
 

@@ -20,7 +20,7 @@ title:  "Charles the fabulist"
 
 ## Stories
 
-- [The Giraffe](https://www.midnightchem.org/no-2/the-silver-ring)
+- [The Giraffe](https://www.yourimpossiblevoice.com/the-giraffe)
 - [The Silver Ring](https://www.midnightchem.org/no-2/the-silver-ring)
 - [Where Do the Dead Go When the Living Come to Town](wdtdg.md)
 
