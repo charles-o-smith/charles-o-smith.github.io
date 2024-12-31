@@ -75,6 +75,12 @@ This one was a reread even though I think I had previously checked it out from t
 It is rich and dense and took/takes me several sittings to read.
 It's a story I'll return to again and again.
 
+### [Out There](https://bookshop.org/a/100115/9780593231487) by Kate Folk
+
+As advertised, this collection serves up strange, menacing, and creepy tales.
+Several read as "haunted house" horror to me.
+I enjoyed the collection as a whole, but "Moist House" stood out as my favorite.
+
 ### [Promiscuous Ruin](https://www.wtawpress.org/product-page/promiscuous-ruin-by-julian-mithra) by Julian Mithra
 
 This chapbook won the 2023 Alcove Press Chapbook Series from WTAW Press.
