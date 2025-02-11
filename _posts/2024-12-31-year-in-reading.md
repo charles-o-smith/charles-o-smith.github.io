@@ -7,7 +7,7 @@ Spotify is busy reminding everyone of their listening habits.
 Even though I read embarassingly slow reader, I read so many great things this year.
 Here are the highlights.
 
-![](/images/2024-reads.png)
+<img src="/images/2024-reads.png" class="img-wide" alt="Two stacks of books--most of the ones in this article."/>
 
 ### [Fantasy Kit](https://bookshop.org/a/100115/9781625570376) by Adam McOmber
 
