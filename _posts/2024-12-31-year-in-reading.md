@@ -4,7 +4,7 @@ title:  '2024: My year in reading "wrapped"'
 ---
 The days are short and the nights are dark.
 Spotify is busy reminding everyone of their listening habits.
-Even though I read embarassingly slow reader, I read so many great things this year.
+Even though I'm an embarassingly slow reader, I read so many great things this year.
 Here are the highlights.
 
 <img src="/images/2024-reads.png" class="img-wide" alt="Two stacks of books--most of the ones in this article."/>
