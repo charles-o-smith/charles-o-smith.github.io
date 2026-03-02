@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Silver Ring in Midnight Chem Issue Two"
-image: "/images/silver_ring.jpeg"
-image-alt: "cartoon turtle wearing a read and yellow scarf"
+thumb: "/images/silver_ring.jpeg"
+thumb-alt: "cartoon turtle wearing a read and yellow scarf"
 ---
 The first story of my collection of fairytales in-progress, [The Silver Ring](https://www.midnightchem.org/no-2/the-silver-ring), has found a home!
 

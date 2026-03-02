@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  'Group Therapy show 2025'
-image: "/images/trmmg0724.jpg"
-image-alt: "A single-eyed spherical robot with striped arms and egs and incandescent bulb on top of their head grinnins largely in front of petroglyphy-style drawings of robots and other machine parts."
+thumb: "/images/trmmg0724.jpg"
+thumb-alt: "A single-eyed spherical robot with striped arms and egs and incandescent bulb on top of their head grinnins largely in front of petroglyphy-style drawings of robots and other machine parts."
 ---
 One of my "The robots made me gay" drawings was selected for the Group Therapy show on exhibit at the [Rosebud Gallery](https://www.rosebudgallery.com/) in San Francisco from May 1 until May 24 2025.
 

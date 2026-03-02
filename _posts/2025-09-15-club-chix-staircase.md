@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Staircase in Club Chicxulub"
-image: "/images/staircase.jpg"
-image-alt: "a figure free falling into the center of concentric squares resembling converging staircases"
+thumb: "/images/staircase.jpg"
+thumb-alt: "a figure free falling into the center of concentric squares resembling converging staircases"
 ---
 I'm overflowing with delight to announce that my story, [The Staircase](https://clubchicxulub.com/club-chicxulub-journal-vol-4-limbo/#elementor-toc__heading-anchor-15), is available in [Club Chicxulub](https://clubchicxulub.com/club-chicxulub-journal-vol-4-limbo/) Vol 4.: "Limbo" !
 

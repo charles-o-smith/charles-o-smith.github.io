@@ -4,9 +4,9 @@ title:  "Charles the fabulist"
 ---
 {% for post in site.posts %}
 <h2>{{ post.date | date: "%Y-%m-%d" }} {{ post.title }}</h2>
- {% if post.image %}
+ {% if post.thumb %}
 <div class="small-grid">
-    <div><img src="{{post.image}}" alt="{{page.image-alt}}" class="thumb"></div>
+    <div><img src="{{post.thumb}}" alt="{{page.thumb-alt}}" class="thumb"></div>
     <div>{{post.excerpt}}
     <a href="{{ post.url }}">Read more...</a>
     </div>

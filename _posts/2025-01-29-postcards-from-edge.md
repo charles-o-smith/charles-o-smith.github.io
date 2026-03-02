@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  'Postcards from the Edge 2025'
-image: "/images/trmmg.jpeg"
-image-alt: "a grinning robot with a boom box body and incandescent bulb ears dancing"
+thumb: "/images/trmmg.jpeg"
+thumb-alt: "a grinning robot with a boom box body and incandescent bulb ears dancing"
 ---
 Sometime in June of 2024 during my year of drawing robots, I got on a "The robots made me gay" kick. 
 When [Visual Aids](https://postcards.visualaids.org/) put out the call for submissios to [Postcards from the Edge](https://postcards.visualaids.org/), I knew I wanted to send some robotic love.

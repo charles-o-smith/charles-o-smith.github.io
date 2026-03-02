@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "The Giraffe in Your Impossible Voice"
-image: "/images/giraffe.jpeg"
-image-alt: "a dove on the ossicone of a giraffe, whispering in its ear"
+thumb: "/images/giraffe.jpeg"
+thumb-alt: "a dove on the ossicone of a giraffe, whispering in its ear"
 ---
 I'm honored to announce that my story, [The Giraffe](https://www.yourimpossiblevoice.com/the-giraffe), is available in issue 31 of [Your Impossible Voice](https://www.yourimpossiblevoice.com/)!
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  'Themeless show 2025'
-image: "/images/pink-planet.jpeg"
-image-alt: "A lemon-shaped robot with colored lightbulbs on their head and striped legs grinning largely in a space-scape of planets, rockets, and shooting stars."
+thumb: "/images/pink-planet.jpeg"
+thumb-alt: "A lemon-shaped robot with colored lightbulbs on their head and striped legs grinning largely in a space-scape of planets, rockets, and shooting stars."
 ---
 My drawing "Pink Planet" was selected for the Themeless show on exhibit at the [Rosebud Gallery](https://www.rosebudgallery.com/) in San Francisco from August 7 until August 30 2025.
 
