@@ -7,7 +7,8 @@ thumb_dir = "/Users/charles/codebase/charles-o-smith.github.io/thumbs/"
 
 #single = "budding_abolitionist.jpg"
 #single = "me_my_demons.jpeg"
-single = "zeke.jpeg"
+#single = "zeke.jpeg"
+single = "animals-3.jpeg"
 
 def gen_all(image_dir, thumb_dir):
     for file in os.listdir(image_dir):
